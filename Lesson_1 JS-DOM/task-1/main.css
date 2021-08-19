@@ -1,0 +1,23 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.ul-style {
+  display: flex;
+  justify-content: center;
+}
+
+.li-style {
+  font-size: 25px;
+  padding: 0.9rem 1.9rem;
+  list-style: none;
+  background-color: rgb(224, 221, 221);
+  border-right: 1px solid gray;
+  cursor: pointer;
+}
+
+.li-hover {
+  background-color: black;
+  color: #fff;
+}
